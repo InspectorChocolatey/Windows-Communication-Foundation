@@ -7,7 +7,7 @@ namespace MyWCFServiceLibrary
         public string OptionA;
         public string OptionB;
 
-        public OptionsFactory()//Option option)
+        public OptionsFactory()
         {
             this.OptionA = "string GetMessage(string name);";
             this.OptionB = "GetSpawnFromProcessFactory(string computername);";
