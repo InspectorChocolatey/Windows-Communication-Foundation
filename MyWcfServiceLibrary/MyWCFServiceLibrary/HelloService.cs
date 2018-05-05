@@ -26,14 +26,14 @@ namespace MyWCFServiceLibrary
         public List<string> GetOptions()
         {
             List<string> options = new List<string>();
-
             string optionA = "public string GetMessage(string name);";
             string optionB = "public string GetSpawnFromProcessFactory(string computername);";
             string optionC = "public List<string> GetOptions();";
-
+            string optionD = "public string NewServerProcess(string computername, string program, string arguments);";
             options.Add(optionA);
             options.Add(optionB);
             options.Add(optionC);
+            options.Add(optionD);
             return options;
         }
     }
