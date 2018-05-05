@@ -1,0 +1,10 @@
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\Host\bin\Debug\Host.exe.config
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\Host\bin\Debug\Host.exe
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\Host\bin\Debug\Host.pdb
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\Host\bin\Debug\MyWCFServiceLibrary.dll
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\Host\bin\Debug\MyWCFServiceLibrary.pdb
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\Host\obj\Debug\Host.csproj.CopyComplete
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\Host\obj\Debug\Host.exe
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\Host\obj\Debug\Host.pdb

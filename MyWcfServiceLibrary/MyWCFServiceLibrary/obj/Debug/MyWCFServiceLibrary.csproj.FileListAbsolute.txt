@@ -1,0 +1,6 @@
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\MyWCFServiceLibrary\bin\Debug\MyWCFServiceLibrary.dll
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\MyWCFServiceLibrary\bin\Debug\MyWCFServiceLibrary.pdb
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\MyWCFServiceLibrary\obj\Debug\MyWCFServiceLibrary.csprojResolveAssemblyReference.cache
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\MyWCFServiceLibrary\obj\Debug\MyWCFServiceLibrary.csproj.CoreCompileInputs.cache
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\MyWCFServiceLibrary\obj\Debug\MyWCFServiceLibrary.dll
+C:\GitHubRepositories\4KUUUDVANUT\WCF\MyWcfServiceLibrary\MyWCFServiceLibrary\obj\Debug\MyWCFServiceLibrary.pdb
